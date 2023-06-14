@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HotelZilla](https://github.com/Duncan4264/HotelZilla)
 
-- 🌱 I’m currently learning **Ruby And Rust!
+- 🌱 I’m currently learning Ruby And Rust!
 
 - 👯 I’m looking to collaborate on [Sooty](https://github.com/TheresAFewConors/Sooty)
 

@@ -13,11 +13,9 @@
 
 - 🤝 I’m looking for help with [shapasswordcracker](https://github.com/Duncan4264/shapasswordcracker)
 
-- 💬 Ask me about **react, express, Laravel, Django, Next.js, .Net**
+- 💬 Ask me about **React, Express, Laravel, Django, Next.js, .Net MVC, Razor, Blade, DevSecOps and OpSec practices! **
 
-- 📫 How to reach me **cyrusd4264@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJZYYyKf5lofwAAAX_2OWQI2gnsvNSvKMPS_nYZQ1-zK8guOkb014dU4fDaleNvq5r2cAxS2p1kljVUXHOMk6ldQEEwsBsZSWyqX1TKd9T78KjKu49wyfxv2yMZ7EN5R6NgcmCbgwe9WUOpeL85Z21xj9p0EP5Dnd73mjKWt5BlIAf6c9ewyjLb2pe2W3XoubTOFVMM6W4gqFQgZ8G4smJ9Ct2kzyqv92X0PaEFuLhSTrLZ7dLgAjrWglLkYJeLmtmNI6iHNxQe2oYCWvZLrrlzNqR8knWJlJ-6c8AxDYX9VsOkfjQWkgHU4E3qvJjgU8g6_J5spagtUcIMe4AE603bQhjIKTM3H9AD_IbrWGaHsXYoK6JPCgeKSro9mSryWmmOcktSyJbw4urFrTJTQ_rWtwdm6VpxGE3wun15pG2ptAKOrc44yvKDH5MUGOLvuXJaxo9s3ptMxXEJgGpcyikv6VMZojcv7u7JeHe7LxpJN4cC2h1XvPeZby_Vgh1Sw5VG8lAL4Ee1a4Pc-hdb5v5djAWvCS_G-sCqKbRIFV-CHEeLS_d5DbagCODwwPlUZj02Xw&x-ambry-um-filename=Profile.pdf](https://www.linkedin.com/ambry/?x-li-ambry-ep=AQJZYYyKf5lofwAAAX_2OWQI2gnsvNSvKMPS_nYZQ1-zK8guOkb014dU4fDaleNvq5r2cAxS2p1kljVUXHOMk6ldQEEwsBsZSWyqX1TKd9T78KjKu49wyfxv2yMZ7EN5R6NgcmCbgwe9WUOpeL85Z21xj9p0EP5Dnd73mjKWt5BlIAf6c9ewyjLb2pe2W3XoubTOFVMM6W4gqFQgZ8G4smJ9Ct2kzyqv92X0PaEFuLhSTrLZ7dLgAjrWglLkYJeLmtmNI6iHNxQe2oYCWvZLrrlzNqR8knWJlJ-6c8AxDYX9VsOkfjQWkgHU4E3qvJjgU8g6_J5spagtUcIMe4AE603bQhjIKTM3H9AD_IbrWGaHsXYoK6JPCgeKSro9mSryWmmOcktSyJbw4urFrTJTQ_rWtwdm6VpxGE3wun15pG2ptAKOrc44yvKDH5MUGOLvuXJaxo9s3ptMxXEJgGpcyikv6VMZojcv7u7JeHe7LxpJN4cC2h1XvPeZby_Vgh1Sw5VG8lAL4Ee1a4Pc-hdb5v5djAWvCS_G-sCqKbRIFV-CHEeLS_d5DbagCODwwPlUZj02Xw&x-ambry-um-filename=Profile.pdf)
+- 📫 How to reach me **Duncan2464@protonmail.ch**
 
 - ⚡ Fun fact **I change Linux Distros every 6 months**
 

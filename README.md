@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duncan4264</h1>
-<h3 align="center">A Passoinate Developer and Cyber Security Analyst</h3>
+<h3 align="center">A Passionate Developer and Information Security Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duncan4264&label=Profile%20views&color=0e75b6&style=flat" alt="duncan4264" /> </p>
 

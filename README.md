@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [shapasswordcracker](https://github.com/Duncan4264/shapasswordcracker)
 
-- 💬 Ask me about **React, Express, Laravel, Django, Next.js, .Net MVC, Razor, Blade, DevSecOps and OpSec practices! **
+- 💬 Ask me about **React, Express, Laravel, Django, Next.js, .Net MVC, Razor, Blade, DevSecOps and OpSec practices!**
 
 - 📫 How to reach me **Duncan2464@protonmail.ch**
 

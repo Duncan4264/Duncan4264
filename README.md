@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently learning Ruby And Rust!
 
-- 👯 I’m looking to collaborate on [Sooty](https://github.com/TheresAFewConors/Sooty)
-
-- 🤝 I’m looking for help with [shapasswordcracker](https://github.com/Duncan4264/shapasswordcracker)
 
 - 💬 Ask me about **React, Express, Laravel, Django, Next.js, .Net MVC, Razor, Blade, DevSecOps and OpSec practices!**
 
